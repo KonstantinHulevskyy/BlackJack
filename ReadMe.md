@@ -2,7 +2,7 @@
 ## About
 
 Short guide about the game:
-First of all game asks you about starting the game. After player`s consent game asks how many bots to add to play with maximum of 3 bots. You cant play against them, its just an option not to feel lonely. You can also choos your name ant here`s the game start.
+First of all game asks you about starting the game. After player's consent game asks how many bots to add to play with maximum of 3 bots. You cant play against them, its just an option not to feel lonely. You can also choos your name ant here`s the game start.
 
 First of all you choos bet from 1 to 100. After the first bet you take your cards and, if there is no Blackjack(21 points on 2 girst cardds), here comes the first option: to double your bet and take only one aditional card, or skip it.
 If you choose not to double bet, now game asks you about taking another card. You can take any number of cards, but game will stop you if haand will be bigger than 21 points. This way you loose this round and can play in next one.
